@@ -2,6 +2,13 @@
 
 A Python-based sales analytics project that analyzes historical retail sales data, visualizes business trends, and predicts future sales using Linear Regression. The project also includes an interactive Power BI dashboard for business insights.
 
+📊 Key Highlights
+
+• Cleaned and analyzed 9,000+ retail sales records
+• Built 5+ interactive Power BI dashboards
+• Forecasted future sales using Linear Regression
+• Generated actionable business insights through visual analytics
+
 ---
 
 ##  Features
